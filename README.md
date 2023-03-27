@@ -3,7 +3,11 @@
 
 # Content Lead
 
+## Content Volunteer
+
 # Coordinations Lead
+
+## Coordinations Volunteer
 
 # Design Lead
 
@@ -12,3 +16,5 @@
 # Marketing Lead
 
 # Logistics Lead
+
+# Coverage Lead
