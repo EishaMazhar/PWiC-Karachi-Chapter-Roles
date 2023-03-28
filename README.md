@@ -8,7 +8,7 @@
 - Note key points of every internal team meeting of PWiC Karachi Chapter.
 
 
-##Content Co Lead
+## Content Co Lead
 - Assign tasks to content volunteers.
 - Edit and correct content submitted by volunteers.
 - Keep track of content tasks that need to be completed.
